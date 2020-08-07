@@ -1,2 +1,0 @@
-This is my 1st file.
-This is 2nd file in 1st file.
